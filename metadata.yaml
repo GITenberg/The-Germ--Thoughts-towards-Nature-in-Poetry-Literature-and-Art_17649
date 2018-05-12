@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1268
     wikipedia: http://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17649#The-Germ--Thoughts-towards-Nature-in-Poetry-Literature-and-Art
 gutenberg_issued: '2006-01-31'
 gutenberg_type: Text
 identifiers:
