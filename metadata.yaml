@@ -1,0 +1,46 @@
+_repo: The-Germ--Thoughts-towards-Nature-in-Poetry-Literature-and-Art_17649
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Rossetti, William Michael
+    aliases:
+    - Rosetti, William Michael
+    - Rossetti, W. M. (William Michael)
+    birthdate: 1829
+    deathdate: 1919
+    gutenberg_agent_id: '2718'
+    url: http://www.gutenberg.org/2009/agents/2718
+    wikipedia: http://en.wikipedia.org/wiki/William_Michael_Rossetti
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Rossetti, Dante Gabriel
+    aliases:
+    - Rossetti, Gabriel Charles Dante
+    - Rosetti, Dante Gabriel
+    birthdate: 1828
+    deathdate: 1882
+    gutenberg_agent_id: '1268'
+    url: http://www.gutenberg.org/2009/agents/1268
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti
+description: ''
+gutenberg_issued: '2006-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Pre-Raphaelitism'
+title: 'The Germ: Thoughts towards Nature in Poetry, Literature and Art'
+url: http://www.gutenberg.org/ebooks/17649
